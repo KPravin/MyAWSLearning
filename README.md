@@ -1,5 +1,3 @@
-# MyAWSLearning
-
 # AWS Learning Contents
 
 **Last Updated:** Friday, January 09, 2026 2:32 AM
@@ -80,7 +78,6 @@
       1. Stateless
       2. Allow vs Deny
       3. Security Group vs NACL
-
     10. Compute Services
         1. EC2
             1. EC2 Instance types
